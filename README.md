@@ -1,16 +1,18 @@
 ### Hi there 👋
+### I'm Jakub - aka [@TrueJacobG][twitter]
 
-<!--
-**TrueJacobG/TrueJacobG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Student and Beginner Programmer
+### I'm focused on Python and React Native.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Plans:
+### - 2020: Python -> ✅✅✅
+### - 2021: React Native -> 📈📈📈
+### - 2022: Dapps, crypto, blockchain -> ⌛⌛⌛
+
+
+### [Website][website]
+### [Twitter][twitter]
+
+[website]: https://truejacobg.github.io/WEB/
+[twitter]: https://twitter.com/TrueJacobG
