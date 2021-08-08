@@ -11,6 +11,7 @@
 ##### - 2021: React Native -> 📈📈📈
 ##### - 2022: Dapps, crypto, blockchain -> ⌛⌛⌛
 
+</br>
 
 #### [Website][website]
 #### [Twitter][twitter]
