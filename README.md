@@ -8,9 +8,10 @@
 
 ---
 
-#### Competitive Programming:
+#### 🏆Competitive Programming:
 ##### - [Codeforces][codeforces-website]
 ##### - [LeetCode][leetcode-website]
+##### - [CodeWars][codewars-website]
 
 ---
 
@@ -29,3 +30,4 @@
 [twitter]: https://twitter.com/TrueJacobG
 [codeforces-website]: https://codeforces.com/submissions/TrueJacobG
 [leetcode-website]: https://leetcode.com/TrueJacobG/
+[codewars-website]: https://www.codewars.com/users/TrueJacobG
