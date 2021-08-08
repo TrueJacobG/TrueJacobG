@@ -21,8 +21,8 @@
 
 </br>
 
-#### 🌐[Website][website]
-#### 🐦[Twitter][twitter]
+#### [🌐Website][website]
+#### [🐦Twitter][twitter]
 
 
 [website]: https://truejacobg.github.io/WEB/
