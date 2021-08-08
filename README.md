@@ -28,6 +28,6 @@
 
 [website]: https://truejacobg.github.io/WEB/
 [twitter]: https://twitter.com/TrueJacobG
-[codeforces-website]: https://codeforces.com/submissions/TrueJacobG
+[codeforces-website]: https://codeforces.com/profile/TrueJacobG
 [leetcode-website]: https://leetcode.com/TrueJacobG/
 [codewars-website]: https://www.codewars.com/users/TrueJacobG
