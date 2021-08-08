@@ -8,16 +8,12 @@
 
 ---
 
-</br>
-
 #### Plans:
 ##### - 2020: Python -> ✅✅✅
 ##### - 2021: React Native -> 📈📈📈
 ##### - 2022: Dapps, crypto, blockchain -> ⌛⌛⌛
 
 ---
-
-</br>
 
 #### [Website][website]
 #### [Twitter][twitter]
