@@ -4,7 +4,7 @@
 ---
 
 #### I'm a 👨‍🎓Student (19 y.o.) and 👨‍💻Beginner Programmer
-#### I'm focused on Python and React Native.
+#### I'm focused on Python/DJANGO.
 
 ---
 
