@@ -23,7 +23,7 @@
 #### Plans:
 ##### - 2020: 🐍Python -> ✅✅✅
 ##### - 2021: 🤠DJANGO -> 📈📈📈
-##### - 2022: ⛏️Dapps, crypto, blockchain -> ⌛⌛⌛
+##### - 2022: 🐻GO -> ⌛⌛⌛
 
 </br>
 
