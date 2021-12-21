@@ -4,7 +4,7 @@
 ---
 
 #### I'm a 👨‍🎓Student (20 y.o.) and 👨‍💻Beginner Programmer
-#### I'm focused on Python/DJANGO.
+#### I'm focused on Python.
 
 ---
 
@@ -22,8 +22,8 @@
 
 #### Plans:
 ##### - 2020: 🐍Python -> ✅✅✅
-##### - 2021: 🤠DJANGO -> 📈📈📈
-##### - 2022: 📱FLUTTER -> ⌛⌛⌛
+##### - 2021: 👨‍🔬⚗️🔬Experiments -> 📈📈📈
+##### - 2022: 📱☕Java -> ⌛⌛⌛
 
 </br>
 
