@@ -26,7 +26,7 @@
 ##### - 2021: 👨‍🔬⚗️🔬Experiments (Flutter, React, Java, GoLang...) -> ✅✅✅
 ##### - 2022: 🤖🧠TensorFlow and others... -> 📈📈📈
 
-</br>
+---
 
 #### [🌐Website][website]
 #### [🐦Twitter][twitter]
