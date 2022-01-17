@@ -12,6 +12,7 @@
 ##### - [Codeforces][codeforces-website]
 ##### - [LeetCode][leetcode-website]
 ##### - [CodeWars][codewars-website]
+##### - [Advent of Code 2021][advent-of-code2021]
 
 ---
 
@@ -22,8 +23,8 @@
 
 #### Plans:
 ##### - 2020: 🐍Python -> ✅✅✅
-##### - 2021: 👨‍🔬⚗️🔬Experiments -> 📈📈📈
-##### - 2022: 📱☕Java -> ⌛⌛⌛
+##### - 2021: 👨‍🔬⚗️🔬Experiments (Flutter, React, Java, GoLang...) -> ✅✅✅
+##### - 2022: 🤖🧠TensorFlow and others... -> 📈📈📈
 
 </br>
 
@@ -37,3 +38,4 @@
 [leetcode-website]: https://leetcode.com/TrueJacobG/
 [codewars-website]: https://www.codewars.com/users/TrueJacobG
 [ctflearn-website]: https://ctflearn.com/user/TrueJacobG
+[advent-of-code2021]: https://github.com/TrueJacobG/ADVENT-OF-CODE-2021
