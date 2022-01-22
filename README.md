@@ -24,7 +24,7 @@
 #### Plans:
 ##### - 2020: 🐍Python -> ✅✅✅
 ##### - 2021: 👨‍🔬⚗️🔬Experiments (Flutter, React, Java, GoLang...) -> ✅✅✅
-##### - 2022: 🤖🧠TensorFlow and others... -> 📈📈📈
+##### - 2022: 🤖🧠☕ ML and Java -> 📈📈📈
 
 ---
 
