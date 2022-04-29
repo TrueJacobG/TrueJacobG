@@ -4,7 +4,7 @@
 ---
 
 #### I'm a 👨‍🎓Student (20 y.o.) and 👨‍💻Beginner Programmer
-#### I'm focused on Python.
+#### I'm focused on Java.
 
 ---
 
@@ -23,8 +23,8 @@
 
 #### Plans:
 ##### - 2020: 🐍Python -> ✅✅✅
-##### - 2021: 👨‍🔬⚗️🔬Experiments (Flutter, React, Java, GoLang...) -> ✅✅✅
-##### - 2022: 🤖🧠☕ ML and Java -> 📈📈📈
+##### - 2021: 👨‍🔬⚗️🔬Experiments (Flutter, React, GoLang...) -> ✅✅✅
+##### - 2022: 🤖🧠☕ Java -> 📈📈📈
 
 ---
 
