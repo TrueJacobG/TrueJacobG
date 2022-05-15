@@ -9,9 +9,9 @@
 ---
 
 #### 🏆Competitive Programming:
-##### - [Codeforces][codeforces-website]
 ##### - [LeetCode][leetcode-website]
 ##### - [CodeWars][codewars-website]
+##### - [Codeforces][codeforces-website]
 ##### - [Advent of Code 2021][advent-of-code2021]
 
 ---
@@ -30,7 +30,6 @@
 
 #### [🌐Website][website]
 #### [🐦Twitter][twitter]
-
 
 [website]: https://truejacobg.github.io/WEB/
 [twitter]: https://twitter.com/TrueJacobG
