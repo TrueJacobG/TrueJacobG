@@ -30,7 +30,7 @@
 ##### - 2020: 🐍🐍🐍 Python (discovered that I love coding hah) -> ✅✅✅
 ##### - 2021: 👨‍🔬⚗️🔬 Experiments (Flutter, Go, Rust, Angular, C++, Android...) -> ✅✅✅
 ##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (even found job :DD)
-##### - 2023: ⚛️💻🎨 React -> 📈📈📈
+##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> 📈📈📈
 
 ---
 
