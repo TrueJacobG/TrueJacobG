@@ -3,6 +3,10 @@
 
 ---
 
+#### <img src="https://github-readme-stats.vercel.app/api?username=truejacobg&show_icons=true" />
+
+---
+
 #### I'm a 👨‍🎓Student (21 y.o.) and 👨‍💻Beginner Programmer
 #### I'm focused on Java and React.
 
