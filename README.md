@@ -7,7 +7,7 @@
 
 ---
 
-#### I'm a 👨‍🎓Student (21 y.o.) and 👨‍💻Beginner Programmer
+#### I'm a 👨‍🎓Student (22 y.o.) and 👨‍💻Beginner Programmer
 #### I'm focused on Java and React.
 
 ---
