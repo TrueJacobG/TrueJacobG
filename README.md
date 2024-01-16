@@ -8,7 +8,7 @@
 ---
 
 #### I'm a 👨‍🎓Student (23 y.o.) and 👨‍💻Beginner Programmer
-#### I'm focused on Java and React.
+#### I'm working as a Full Stack Developer (Java +  React). Currently messing around aws cloud.
 
 ---
 
