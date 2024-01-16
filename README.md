@@ -7,7 +7,7 @@
 
 ---
 
-#### I'm a 👨‍🎓Student (22 y.o.) and 👨‍💻Beginner Programmer
+#### I'm a 👨‍🎓Student (23 y.o.) and 👨‍💻Beginner Programmer
 #### I'm focused on Java and React.
 
 ---
@@ -33,8 +33,9 @@
 #### Plans:
 ##### - 2020: 🐍🐍🐍 Python (discovered that I love coding hah) -> ✅✅✅
 ##### - 2021: 👨‍🔬⚗️🔬 Experiments (Flutter, Go, Rust, Angular, C++, Android...) -> ✅✅✅
-##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (even found job :DD)
-##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> 📈📈📈
+##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (found first job :DD)
+##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
+##### - 2024: ☁️🧮🖥️ Cloud (Amazon AWS) + React Native + Full Stack (Java + React) -> 📈📈📈
 
 ---
 
