@@ -8,7 +8,7 @@
 ---
 
 #### I'm a 👨‍🎓Student (23 y.o.) and 👨‍💻Beginner Programmer
-#### I'm working as a Full Stack Developer (Java +  React). Currently messing around aws cloud.
+#### I'm working as a Full Stack Developer (Java +  React). Currently messing around React Native.
 
 ---
 
@@ -35,7 +35,7 @@
 ##### - 2021: 👨‍🔬⚗️🔬 Experiments (Flutter, Go, Rust, Angular, C++, Android...) -> ✅✅✅
 ##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (found first job :DD)
 ##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
-##### - 2024: ☁️🧮🖥️ Cloud (Amazon AWS) + React Native + Full Stack (Java + React) -> 📈📈📈
+##### - 2024: 📱🧮🖥️ React Native + Full Stack (Java + React) -> 📈📈📈
 
 ---
 
