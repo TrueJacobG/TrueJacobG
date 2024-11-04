@@ -1,5 +1,5 @@
 ### 👋👋👋
-#### I'm Jakub - aka [@TrueJacobG][twitter]
+#### I'm Jakub - aka @TrueJacobG
 
 ---
 
@@ -7,8 +7,7 @@
 
 ---
 
-#### I'm a 👨‍🎓Student (23 y.o.) and 👨‍💻Beginner Programmer
-#### I'm working as a Full Stack Developer (Java +  React). Currently messing around React Native.
+#### Junior Java Developer
 
 ---
 
@@ -20,8 +19,9 @@
 ---
 
 #### 📅Advent of Code:
-##### - [Advent of Code 2021][advent-of-code2021]
-##### - [Advent of Code 2022][advent-of-code2022]
+##### - [Advent of Code 2021][advent-of-code-2021]
+##### - [Advent of Code 2022][advent-of-code-2022]
+##### - [Advent of Code 2023][advent-of-code-2023]
 
 ---
 
@@ -39,16 +39,13 @@
 
 ---
 
-#### [🌐Website][website]
-#### [🐦Twitter][twitter]
 #### [👤LinkedIn][linkedin]
 
-[website]: https://truejacobg.github.io/WEB/
-[twitter]: https://twitter.com/TrueJacobG
 [codeforces-website]: https://codeforces.com/profile/TrueJacobG
 [leetcode-website]: https://leetcode.com/TrueJacobG/
 [codewars-website]: https://www.codewars.com/users/TrueJacobG
 [ctflearn-website]: https://ctflearn.com/user/TrueJacobG
-[advent-of-code2021]: https://github.com/TrueJacobG/ADVENT-OF-CODE-2021
-[advent-of-code2022]: https://github.com/TrueJacobG/advent-of-code-2022
+[advent-of-code-2021]: https://github.com/TrueJacobG/ADVENT-OF-CODE-2021
+[advent-of-code-2022]: https://github.com/TrueJacobG/advent-of-code-2022
+[advent-of-code-2023]: https://github.com/TrueJacobG/advent-of-code-2023
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz-4b305a225/?locale=en_US
