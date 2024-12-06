@@ -7,23 +7,14 @@
 
 ---
 
-#### Junior Java Developer
+#### 👨‍💻☕🚀Junior Java Developer
 #### [💼LinkedIn][linkedin]
 
 ---
 
-#### 🏆Competitive Programming:
-##### - [LeetCode][leetcode-website]
-##### - [CodeWars][codewars-website]
-##### - [Codeforces][codeforces-website]
-
----
-
-#### 📅Advent of Code:
-##### - [Advent of Code 2021][advent-of-code-2021]
-##### - [Advent of Code 2022][advent-of-code-2022]
-##### - [Advent of Code 2023][advent-of-code-2023]
-##### - [Advent of Code 2024][advent-of-code-2024]
+#### 👨‍💻📂🤝Open Source Contributor to:
+##### - [Datafaker][datafaker]
+##### - [PrivateBin Java Api][privatebinjavaapi]
 
 ---
 
@@ -36,7 +27,25 @@
 ##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) + DevOps (VPS + Jenkins + Infra stuff) -> 📈📈📈
 
 ---
+
+#### 📅Advent of Code:
+##### - [Advent of Code 2021][advent-of-code-2021]
+##### - [Advent of Code 2022][advent-of-code-2022]
+##### - [Advent of Code 2023][advent-of-code-2023]
+##### - [Advent of Code 2024][advent-of-code-2024]
+
+---
+
+#### 🏆Competitive Programming:
+##### - [LeetCode][leetcode-website]
+##### - [CodeWars][codewars-website]
+##### - [Codeforces][codeforces-website]
+
+---
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz-4b305a225
+
+[datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
+[privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
 
 [codeforces-website]: https://codeforces.com/profile/TrueJacobG
 [leetcode-website]: https://leetcode.com/TrueJacobG/
