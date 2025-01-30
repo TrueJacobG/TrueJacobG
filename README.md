@@ -24,7 +24,7 @@
 ##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (even found first job :DD)
 ##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
 ##### - 2024: 📱🧮🖥️ React Native + Full Stack (Java + React) -> ✅✅✅
-##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) + DevOps (Jenkins) -> 📈📈📈
+##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) -> 📈📈📈
 
 ---
 
