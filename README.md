@@ -3,7 +3,7 @@
 
 ---
 
-#### <img src="https://github-readme-stats.vercel.app/api?username=truejacobg&show_icons=true&theme=dark" />
+[![TrueJacobG's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
