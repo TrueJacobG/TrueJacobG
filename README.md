@@ -3,7 +3,7 @@
 
 ---
 
-[![TrueJacobG's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![TrueJacobG's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged,discussions_started)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
