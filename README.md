@@ -1,20 +1,15 @@
 ### 👋👋👋
 #### I'm Jakub - aka @TrueJacobG
-
----
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&rank_icon=github&locale=jp)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 #### 👨‍💻☕🚀Junior Java Developer
 #### [💼LinkedIn][linkedin]
 
 ---
 
-#### 👨‍💻📂🤝Open Source Contributor to:
+[![Stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+#### 👨‍💻📂🤝Open Source Contributor:
 ##### - [Datafaker][datafaker]
 ##### - [PrivateBin Java Api][privatebinjavaapi]
 
