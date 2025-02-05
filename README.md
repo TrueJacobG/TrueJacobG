@@ -39,7 +39,7 @@
 ##### - [Codeforces][codeforces-website]
 
 ---
-[linkedin]: https://www.linkedin.com/in/jakub-gradzewicz-4b305a225
+[linkedin]: https://www.linkedin.com/in/jakub-gradzewicz
 
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
