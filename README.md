@@ -11,8 +11,11 @@
 
 #### 👨‍💻📂🤝Open Source Contributor:
 ##### - [Datafaker][datafaker]
+
+and really small ones 😅:
 ##### - [PrivateBin Java Api][privatebinjavaapi]
-##### - [Cucumber Jvm][cucumber-jvm]
+##### - [Cucumber-Jvm][cucumber-jvm]
+##### - [Fast-ruby][fast-ruby]
 
 ---
 
@@ -45,6 +48,7 @@
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
 [cucumber-jvm]: https://github.com/cucumber/cucumber-jvm
+[fast-ruby]: https://github.com/fastruby/fast-ruby
 
 [codeforces-website]: https://codeforces.com/profile/TrueJacobG
 [leetcode-website]: https://leetcode.com/TrueJacobG/
