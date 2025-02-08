@@ -1,6 +1,7 @@
 ### 👋👋👋
 #### I'm Jakub - aka @TrueJacobG
 #### 👨‍💻☕🚀Junior Java Developer
+#### [🔎Portfolio][portfolio]
 #### [💼LinkedIn][linkedin]
 
 ---
@@ -44,6 +45,7 @@ and really small ones 😅:
 
 ---
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz
+[portfolio]: https://truejacobg.vercel.app/
 
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
