@@ -45,7 +45,7 @@ and really small ones 😅:
 
 ---
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz
-[portfolio]: https://truejacobg.vercel.app/
+[portfolio]: https://jakub.gradzewi.cz
 
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
