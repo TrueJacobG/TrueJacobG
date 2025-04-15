@@ -6,6 +6,10 @@
 
 ---
 
+[![TrueJacobG profile views](https://u8views.com/api/v1/github/profiles/70010423/views/day-week-month-total-count.svg)](https://u8views.com/github/TrueJacobG)
+
+---
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
