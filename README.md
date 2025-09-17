@@ -10,7 +10,7 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-five-virid-33.vercel.app/api?username=TrueJacobG&show_icons=true&theme=dracula&show=prs_merged&border_radius=10&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
