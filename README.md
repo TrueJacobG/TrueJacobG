@@ -32,6 +32,7 @@ and really small ones 😅:
 ##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
 ##### - 2024: 📱🧮🖥️ React Native + Full Stack (Java + React) -> ✅✅✅
 ##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) -> 📈📈📈
+##### - 2026: 🧩🦊🚀 Kotlin + Ktor
 
 ---
 
@@ -40,10 +41,11 @@ and really small ones 😅:
 ##### - [Advent of Code 2022][advent-of-code-2022]
 ##### - [Advent of Code 2023][advent-of-code-2023]
 ##### - [Advent of Code 2024][advent-of-code-2024]
+##### - [Advent of Code 2025][advent-of-code-2025]
 
 ---
 
-#### 🏆Competitive Programming:
+#### 🏆Competitive Programming [ARCHIVED]:
 ##### - [LeetCode][leetcode-website]
 ##### - [CodeWars][codewars-website]
 ##### - [Codeforces][codeforces-website]
@@ -66,3 +68,4 @@ and really small ones 😅:
 [advent-of-code-2022]: https://github.com/TrueJacobG/advent-of-code-2022
 [advent-of-code-2023]: https://github.com/TrueJacobG/advent-of-code-2023
 [advent-of-code-2024]: https://github.com/TrueJacobG/advent-of-code-2024
+[advent-of-code-2025]: https://github.com/TrueJacobG/advent-of-code-2025
