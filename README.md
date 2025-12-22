@@ -31,8 +31,8 @@ and really small ones 😅:
 ##### - 2022: 🤖🧠☕ Java -> ✅✅✅ (even found first job :DD)
 ##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
 ##### - 2024: 📱🧮🖥️ React Native + Full Stack (Java + React) -> ✅✅✅
-##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) -> 📈📈📈
-##### - 2026: 🧩🦊🚀 Kotlin + Ktor
+##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) -> ✅✅✅
+##### - 2026: 🧩🦊🚀 Kotlin + Ktor -> 📈📈📈
 
 ---
 
@@ -44,13 +44,6 @@ and really small ones 😅:
 ##### - [Advent of Code 2025][advent-of-code-2025]
 
 ---
-
-#### 🏆Competitive Programming [ARCHIVED]:
-##### - [LeetCode][leetcode-website]
-##### - [CodeWars][codewars-website]
-##### - [Codeforces][codeforces-website]
-
----
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz
 [portfolio]: https://jakub.gradzewi.cz
 
@@ -59,10 +52,6 @@ and really small ones 😅:
 [cucumber-jvm]: https://github.com/cucumber/cucumber-jvm
 [fast-ruby]: https://github.com/fastruby/fast-ruby
 [assertJ-doc]: https://github.com/assertj/doc
-
-[codeforces-website]: https://codeforces.com/profile/TrueJacobG
-[leetcode-website]: https://leetcode.com/TrueJacobG/
-[codewars-website]: https://www.codewars.com/users/TrueJacobG
 
 [advent-of-code-2021]: https://github.com/TrueJacobG/ADVENT-OF-CODE-2021
 [advent-of-code-2022]: https://github.com/TrueJacobG/advent-of-code-2022
