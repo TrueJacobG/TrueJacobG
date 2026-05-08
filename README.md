@@ -1,6 +1,6 @@
 ### 👋👋👋
 #### I'm Jakub - aka @TrueJacobG
-#### 👨‍💻☕🚀Junior Java Developer
+#### 👨‍💻☕🚀Fullstack Developer
 #### [🔎Portfolio][portfolio]
 #### [💼LinkedIn][linkedin]
 
