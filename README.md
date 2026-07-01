@@ -32,7 +32,7 @@ and really small ones 😅:
 ##### - 2023: ⚛️💻🎨 Full Stack (Java + React) -> ✅✅✅
 ##### - 2024: 📱🧮🖥️ React Native + Full Stack (Java + React) -> ✅✅✅
 ##### - 2025: ☕⚛️⚙️ Full Stack (Java + NextJs) -> ✅✅✅
-##### - 2026: 🧩🦊🚀 Kotlin + Ktor -> 📈📈📈
+##### - 2026: 🎣📱⚡ [bfa.boats][bfa.boats] -> 📈📈📈
 
 ---
 
@@ -46,6 +46,7 @@ and really small ones 😅:
 ---
 [linkedin]: https://www.linkedin.com/in/jakub-gradzewicz
 [portfolio]: https://jakub.gradzewi.cz
+[bfa.boats]: https://bfa.boats
 
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
