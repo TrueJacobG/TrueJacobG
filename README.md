@@ -16,6 +16,7 @@
 
 #### 👨‍💻📂🤝Open Source Contributor:
 ##### - [Datafaker][datafaker]
+##### - [pitest][pitest]
 
 and really small ones 😅:
 ##### - [PrivateBin Java Api][privatebinjavaapi]
@@ -49,6 +50,7 @@ and really small ones 😅:
 [bfa.boats]: https://bfa.boats
 
 [datafaker]: https://github.com/datafaker-net/datafaker/graphs/contributors
+[pitest]: https://github.com/hcoles/pitest/graphs/contributors
 [privatebinjavaapi]: https://github.com/InstantlyMoist/privatebin-java-api/graphs/contributors
 [cucumber-jvm]: https://github.com/cucumber/cucumber-jvm
 [fast-ruby]: https://github.com/fastruby/fast-ruby
